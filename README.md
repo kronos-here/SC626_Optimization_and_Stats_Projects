@@ -16,9 +16,9 @@ This repository contains various projects related to optimization techniques and
 - **Description:** Sampling points from a 2D Gaussian distribution using Gibbs sampling.
 - **Path:** [Gibbs_Sampling/GibbsSampling.ipynb](Gibbs_Sampling/GibbsSampling.ipynb)
 
-### 4. SC626 Systems and Control Lab
-- **Description:** Includes tasks from SC626 Week 1 related to systems and control.
-- **Path:** [SC626_Week1/SC626_Week1.ipynb](SC626_Week1/SC626_Week1.ipynb)
+### 4. Liner Programming
+- **Description:** Includes an optimization task with constraints and we're required to find the optimal solution.
+- **Path:** [SC626_Week1/SC626_Week1.ipynb](Linear Programming/LinearProgramming.ipynb)
 
 ## How to Use
 1. Clone the repository:
